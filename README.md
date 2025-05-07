@@ -36,7 +36,7 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/username/laravue.git
-cd laravue
+cd rov-property
 
 # 2. Install PHP & JS dependencies
 composer install
