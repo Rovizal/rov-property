@@ -4,11 +4,17 @@
   </a>
 </p>
 
-<h1 align="center">Laravue</h1>
+<h1 align="center">rov-property</h1>
 
 <p align="center">
   A starter project using Laravel 11 + Inertia.js + Vue 3 + Tailwind CSS to build modern Single Page Applications.
 </p>
+
+---
+
+## 🖼️ Screenshot
+
+![rov-property screenshot](public/screenshot.png)
 
 ---
 
